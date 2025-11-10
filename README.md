@@ -45,7 +45,7 @@ This project uses deep learning to predict ammonia dispersion patterns and threa
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ammonia-dispersion-prediction.git
+git clone https://github.com/Zohaib-Atiq/ammonia-dispersion-prediction.git
 cd ammonia-dispersion-prediction
 ```
 
@@ -85,7 +85,7 @@ jupyter notebook ammonia_dispersion_ml_model.ipynb
 ### Using the Python Script
 
 ```bash
-python DrImran_paper4_machinelearning_v2.py
+python ammonia_dispersion_ml_model_code.py
 ```
 
 ### Making Predictions on New Data
@@ -120,7 +120,7 @@ print("Predictions:", predictions)
 ```
 .
 ├── ammonia_dispersion_ml_model.ipynb  # Main Jupyter notebook
-├── DrImran_paper4_machinelearning_v2.py  # Python script version
+├── ammonia_dispersion_ml_model_code.py  # Python script version
 ├── unique_points.xlsx                 # Dataset
 ├── README.md                          # This file
 ├── LICENSE                            # MIT License
@@ -163,28 +163,20 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📝 Citation
 
-If you use this code in your research, please cite:
+The article is under revision and citation will be available soon:
 
-```bibtex
-@article{your_paper_2024,
-  title={Ammonia Dispersion Prediction using Deep Learning},
-  author={Your Name and Dr. Imran},
-  journal={Journal Name},
-  year={2024},
-  institution={University of Engineering and Technology (UET)}
-}
-```
+
 
 ## 👥 Authors
 
-- **Your Name** - University of Engineering and Technology (UET)
-- **Dr. Imran** - Research Supervisor
+- **Dr. Zohaib Atiq Khan** - First Author - University of Engineering and Technology (UET Lahore), Pakistan
+- **Dr. Imran Rashid** - Corresponding Author - University of Engineering and Technology (UET Lahore), Pakistan
 
 ## 📧 Contact
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- ResearchGate: [Your Profile](https://researchgate.net/profile/yourprofile)
+- Email: zohaib_atiq@uet.edu.pk
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dr-zohaib-atiq-khan/)
+- Google Scholar: [Your Profile](https://scholar.google.ca/citations?user=NLQyafEAAAAJ&hl=en)
 
 ## 📄 License
 
@@ -192,15 +184,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- University of Engineering and Technology (UET) for research support
+- Shamim Irshad High Performance Computing Center
+- Department of Chemical, Polymer, and Composite Materials Engineering at the University of Engineering and Technology Lahore, Pakistan
 - Contributors and reviewers
 - TensorFlow and scikit-learn communities
 
 ## 📚 References
 
-1. Add relevant papers and references here
-2. Related work in ammonia dispersion modeling
-3. Deep learning methodology references
+Will be provided soon
 
 ## 🐛 Known Issues
 
@@ -218,7 +209,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Version History
 
-- **v1.0.0** (2024-11-10): Initial release
+- **v1.0.0** (2025-11-10): Initial release
   - Core prediction functionality
   - Jupyter notebook implementation
   - Comprehensive visualization
@@ -226,3 +217,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ If you find this project helpful, please consider giving it a star!**
+
