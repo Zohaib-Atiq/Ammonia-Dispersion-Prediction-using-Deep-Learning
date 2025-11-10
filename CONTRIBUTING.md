@@ -66,7 +66,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 1. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ammonia-dispersion-prediction.git
+   git clone https://github.com/Zohaib-AtiqE/ammonia-dispersion-prediction.git
    cd ammonia-dispersion-prediction
    ```
 
@@ -114,14 +114,14 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ```
 .
-├── ammonia_dispersion_ml_model.ipynb  # Main notebook
-├── DrImran_paper4_machinelearning_v2.py  # Python script
-├── unique_points.xlsx                 # Dataset
-├── README.md                          # Main documentation
-├── LICENSE                            # License file
-├── requirements.txt                   # Dependencies
-├── CONTRIBUTING.md                    # This file
-└── .gitignore                         # Git ignore rules
+├── ammonia_dispersion_ml_model.ipynb     # Main notebook
+├── ammonia_dispersion_ml_model_code.py  # Python script
+├── unique_points.xlsx                    # Dataset
+├── README.md                             # Main documentation
+├── LICENSE                               # License file
+├── requirements.txt                      # Dependencies
+├── CONTRIBUTING.md                       # This file
+└── .gitignore                            # Git ignore rules
 ```
 
 ## Questions?
@@ -136,3 +136,4 @@ Contributors will be recognized in:
 - Academic papers (for significant contributions)
 
 Thank you for contributing! 🎉
+
