@@ -14,7 +14,7 @@ Get up and running with the Ammonia Dispersion Prediction model in 5 minutes!
 
 **Option A: Using Git**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ammonia-dispersion-prediction.git
+git clone https://github.com/zohaib-atiq/ammonia-dispersion-prediction.git
 cd ammonia-dispersion-prediction
 ```
 
@@ -193,7 +193,6 @@ print(f"GPU Available: {tf.config.list_physical_devices('GPU')}")
 
 - **Full Documentation**: See [README.md](README.md)
 - **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
-- **Open Source Guide**: See [OPEN_SOURCE_GUIDE.md](OPEN_SOURCE_GUIDE.md)
 - **Issues**: Report bugs or request features on GitHub Issues
 
 ## 💡 Tips
@@ -207,7 +206,7 @@ print(f"GPU Available: {tf.config.list_physical_devices('GPU')}")
 ## 🆘 Need Help?
 
 - **GitHub Issues**: Open an issue for bugs or questions
-- **Email**: contact@yourdomain.com
+- **Email**: zohaib.atiq@uet.edu.pk
 - **Documentation**: Check the full README.md
 
 ## ⚡ Speed Tips

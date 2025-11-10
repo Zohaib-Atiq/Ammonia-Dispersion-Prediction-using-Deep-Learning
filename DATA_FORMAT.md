@@ -309,7 +309,7 @@ If your data is sensitive:
 - Check that your Excel file matches the format exactly
 - Use the validation code above
 - Open an issue on GitHub if you encounter problems
-- Contact: [your email]
+- Contact: [zohaib.atiq@uet.edu.pk]
 
 ---
 
