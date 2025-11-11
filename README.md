@@ -118,15 +118,22 @@ print("Predictions:", predictions)
 ## 📁 Project Structure
 
 ```
-.
-├── ammonia_dispersion_ml_model.ipynb  # Main Jupyter notebook
-├── ammonia_dispersion_ml_model_code.py  # Python script version
-├── unique_points.xlsx                 # Dataset
-├── README.md                          # This file
-├── LICENSE                            # MIT License
-├── requirements.txt                   # Python dependencies
-├── .gitignore                         # Git ignore file
-└── figures/                           # Generated figures (created during runtime)
+```
+ammonia-dispersion-prediction/
+├── ammonia_dispersion_ml_model.ipynb     # Main Jupyter notebook
+├── ammonia_dispersion_ml_model_code.py   # Python script version
+├── unique_points.xlsx                    # Dataset
+├── README.md                             # Project documentation
+├── LICENSE                               # MIT License
+├── requirements.txt                      # Python dependencies
+├── .gitignore                            # Git ignore file
+├── scaler_X.pkl                          # Feature scaler (generated after training)
+├── scaler_y.pkl                          # Target scaler (generated after training)
+├── ammonia_dispersion_model.keras        # Trained model (generated after training)
+└── figures/                              # Generated visualizations (created during runtime)
+  ├── loss_curves.png
+  ├── predictions_vs_actual.png
+  └── residual_plots.png
 ```
 
 ## 🔬 Methodology
@@ -175,8 +182,8 @@ The article is under revision and citation will be available soon:
 ## 📧 Contact
 
 - Email: zohaib_atiq@uet.edu.pk
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dr-zohaib-atiq-khan/)
-- Google Scholar: [Your Profile](https://scholar.google.ca/citations?user=NLQyafEAAAAJ&hl=en)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dr-zohaib-atiq-khan/)
+- Google Scholar: [Google Profile](https://scholar.google.ca/citations?user=NLQyafEAAAAJ&hl=en)
 
 ## 📄 License
 
