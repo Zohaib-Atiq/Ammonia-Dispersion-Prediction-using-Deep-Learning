@@ -118,7 +118,6 @@ print("Predictions:", predictions)
 ## 📁 Project Structure
 
 ```
-```
 ammonia-dispersion-prediction/
 ├── ammonia_dispersion_ml_model.ipynb     # Main Jupyter notebook
 ├── ammonia_dispersion_ml_model_code.py   # Python script version
